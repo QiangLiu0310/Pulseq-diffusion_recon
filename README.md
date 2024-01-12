@@ -1,7 +1,7 @@
 # Pulseq-diffusion_recon
 Pulseq-Siemens data reconstruction
 using mapVBVD https://github.com/CIC-methods/FID-A/tree/master/inputOutput/mapVBVD to read the data
-Pulseq toolbox is required to calculate the trajectory for EPI
+# Pulseq toolbox is required to calculate the trajectory for EPI
 # EPI recon includes: 
 1. ramp sampling intepolaration (Pulseq code) 
 2. Ghost correction (LPC based on Dr.William Scott Hoge's code) 
