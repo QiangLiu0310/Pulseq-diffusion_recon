@@ -8,6 +8,6 @@ Pulseq toolbox is required to calculate the trajectory for EPI
 3. GRAPPA reconstruction
 4. Homodyne for Partial Fourier recon
 5. Apodization (based on Dr.Bilgic Berkin's toolbox @Pulseq_Mprage_Recon_Toolbox)
-by Qiang Liu et al., Brigham and Women's Hospital, Harvard Medical School
+# by Qiang Liu et al., Brigham and Women's Hospital, Harvard Medical School
 qliu30@mgh.harvard.edu
 qiangliu2019@163.com
